@@ -3,7 +3,7 @@
 import fractions
 
 num_start = 1
-num_end = 5
+num_end = 100
 
 sum = 0
 
